@@ -1,0 +1,33 @@
+*{
+    margin : 0;
+}
+li {
+    list-style-type: none;
+}
+.page-1{
+    background-image: url(image/Group_1.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    height: 954px;
+    padding-top: 100px;
+}
+.header-menu_nav{
+    display: flex;
+    height: 60px;
+    background-image: url(image/image_5.png);
+    padding-top: 1.7%;
+}
+.menu_li{
+    color: aliceblue;
+}
+
+.form{
+    margin-top: 100px;
+    margin-left: 50px;
+}
+#menu_li-one{
+    margin-left: 70%;
+}
+#menu_li-two{
+    margin-left: 10%;
+}
